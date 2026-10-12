@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+<rect width="960" height="640" fill="#f3efe6"/><path d="M650 0h310v640H650z" fill="#cfddcb"/>
+<path d="M694 398c0-165 182-215 182-338 90 220-12 330-182 338" fill="#57775e"/><path d="M694 398c0-120-117-145-99-242 157 28 177 121 99 242" fill="#91a688"/>
+<path d="M650 414h180l-28 151H679z" fill="#b98061"/><ellipse cx="740" cy="414" rx="90" ry="19" fill="#91664c"/>
+<path d="M736 415V186" stroke="#426447" stroke-width="8" fill="none"/>
+<text x="64" y="82" font-family="Arial,sans-serif" font-size="22" letter-spacing="5" fill="#52614e">WEAVE / COMMUNITY</text>
+<text x="60" y="226" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#293b30">MAKE</text><text x="60" y="320" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#293b30">SOMETHING</text><text x="60" y="414" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#293b30">GROW.</text>
+<path d="M64 480h480" stroke="#9ca994"/><text x="64" y="528" font-family="Arial,sans-serif" font-size="22" fill="#52614e">SPRING WORKSHOP · 2024 / 04 / 06</text><text x="64" y="574" font-family="Arial,sans-serif" font-size="20" fill="#52614e">14:00 — 16:00 · STUDIO W</text>
+</svg>
