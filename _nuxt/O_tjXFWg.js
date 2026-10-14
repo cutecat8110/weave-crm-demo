@@ -1,1 +1,0 @@
-import{C as e,V as t,h as n,nt as r}from"./CkFu7Eph.js";import{c as i}from"./DhWQ4mX5.js";var a=e({__name:`index`,async setup(e){let a,o;return[a,o]=r(()=>i(`/members`,{replace:!0})),await a,o(),(e,r)=>(t(),n(`span`))}});export{a as default};
