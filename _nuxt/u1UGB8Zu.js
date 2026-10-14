@@ -1,0 +1,1 @@
+import{V as e,p as t}from"./CkFu7Eph.js";import{h as n}from"./DhWQ4mX5.js";import{t as r}from"./CXymJiPn.js";import{t as i}from"./BDNMzG2s.js";var a={};function o(i,a){let o=r;return e(),t(o,{kind:`tiers`,key:(i._.provides[n]||i.$route).fullPath})}var s=i(a,[[`render`,o]]);export{s as default};
