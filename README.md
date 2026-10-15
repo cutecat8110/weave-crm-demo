@@ -1,8 +1,8 @@
-# 織序 CRM｜會員管理與對話搜尋展示
+# 織序 CRM｜會員管理與對話搜尋
 
 `Nuxt 4` · `Vue 3` · `TypeScript` · `Element Plus` · `IndexedDB`
 
-整合會員分級、聯絡歷程與對話，支援搜尋定位、圖片預覽及中英切換。
+會員分級、聯絡歷程與對話搜尋，支援圖片預覽及中英切換。
 
 **[開啟 Demo](https://cutecat8110.github.io/weave-crm-demo/#/login)**
 
