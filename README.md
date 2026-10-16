@@ -1,4 +1,4 @@
-# 織序 CRM｜會員管理與對話搜尋
+# CRM
 
 `Nuxt 4` · `Vue 3` · `TypeScript` · `Element Plus` · `IndexedDB`
 
