@@ -7,7 +7,7 @@
 
 > 會員分級、聯絡歷程與對話搜尋，支援圖片預覽及中英切換。
 
-![會員查詢與分級](images/members.png)
+![對話搜尋與圖片訊息](images/conversations.png)
 
 ## 📋 專案概述
 
@@ -40,9 +40,9 @@
 | Element Plus Icons | 操作與狀態圖示 |
 
 <details>
-<summary>對話搜尋與聯絡歷程</summary>
+<summary>會員管理與聯絡歷程</summary>
 
-![對話搜尋與圖片訊息](images/conversations.png)
+![會員查詢與分級](images/members.png)
 ![聯絡紀錄與追蹤狀態](images/contacts.png)
 
 </details>
