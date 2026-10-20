@@ -1,1 +1,0 @@
-import{B as e,p as t}from"./Bvb57iT-.js";import{h as n}from"./Cxmz13Y6.js";import{t as r}from"./a4Ws9Ot3.js";import{t as i}from"./BDNMzG2s.js";var a={};function o(i,a){let o=r;return e(),t(o,{kind:`conversations`,key:(i._.provides[n]||i.$route).fullPath})}var s=i(a,[[`render`,o]]);export{s as default};
